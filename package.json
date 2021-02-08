@@ -2,7 +2,6 @@
     "name": "dxform_svg_purejs",
     "version": "0.0.0",
     "description": "",
-    "private": true,
     "license": "GPL-3.0",
     "repository": "dxform_svg_purejs",
     "keywords": [
